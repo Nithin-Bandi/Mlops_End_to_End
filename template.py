@@ -14,7 +14,7 @@ list_of_files = [
    "src/logger/logging.py",
    "src/exception/exception.py"
    "tests/unit/__init__.py",
-   "tests/integration/__init.py",
+   "tests/integration/__init__.py",
    "init_setup.sh",
    "requirements.txt",
    "setup.py",
